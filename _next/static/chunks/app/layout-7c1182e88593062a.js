@@ -556,13 +556,7 @@
                                         rel: "noopener noreferrer",
                                         className: "text-sm font-medium text-muted-foreground transition-colors hover:text-primary",
                                         children: "Telegram"
-                                    }), (0, r.jsx)(a.default, {
-                                        href: "https://base.meme/coin/base:0xe18D95Cbd9c526171BF3eb4ab36B7479eF388888",
-                                        target: "_blank",
-                                        rel: "noopener noreferrer",
-                                        className: "text-sm font-medium text-muted-foreground transition-colors hover:text-primary",
-                                        children: "Base.meme"
-                                    })]
+                                    }), ]
                                 }), (0, r.jsx)(L, {}), (0, r.jsx)(M, {})]
                             })
                         })]
