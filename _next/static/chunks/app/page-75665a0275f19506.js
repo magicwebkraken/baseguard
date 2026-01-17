@@ -1161,8 +1161,8 @@
                         children: [(0, s.jsxs)(_.O, {
                             className: "w-full max-w-4xl text-center",
                             children: [(0, s.jsx)("h2", {
-                                className: "text-sm font-semibold uppercase tracking-wider text-primary",
-                                children: "About Base Guard"
+                               className: "text-2xl font-semibold uppercase tracking-wider text-primary",
+                                children: "0x84c90d3eec19bec0e5fd92c0a6eff766353984de"
                             }), (0, s.jsx)("p", {
                                 className: "mt-2 text-3xl font-bold tracking-tighter sm:text-4xl",
                                 children: "Pioneering the new standard for on-chain intelligence."
