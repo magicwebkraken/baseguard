@@ -39,13 +39,13 @@
                                 }), (0, r.jsxs)("div", {
                                     className: "flex flex-wrap justify-center gap-4 items-center",
                                     children: [(0, r.jsx)(a.default, {
-                                        href: "https://x.com/baseguardev",
+                                        href: "https://x.com/thebaseguard",
                                         target: "_blank",
                                         rel: "noopener noreferrer",
                                         className: "hover:text-primary",
                                         children: "Twitter"
                                     }), (0, r.jsx)(a.default, {
-                                        href: "https://t.me/baseguardev",
+                                        href: "https://t.me/thebaseguard",
                                         target: "_blank",
                                         rel: "noopener noreferrer",
                                         className: "hover:text-primary",
@@ -523,13 +523,13 @@
                                             className: "text-muted-foreground hover:text-primary",
                                             children: e.label
                                         }, e.href)), (0, r.jsx)(a.default, {
-                                            href: "https://x.com/baseguardev",
+                                            href: "https://x.com/thebaseguard",
                                             target: "_blank",
                                             rel: "noopener noreferrer",
                                             className: "text-muted-foreground hover:text-primary",
                                             children: "Twitter"
                                         }), (0, r.jsx)(a.default, {
-                                            href: "https://t.me/baseguardev",
+                                            href: "https://t.me/thebaseguard",
                                             target: "_blank",
                                             rel: "noopener noreferrer",
                                             className: "text-muted-foreground hover:text-primary",
@@ -551,13 +551,13 @@
                                 children: [(0, r.jsxs)("div", {
                                     className: "hidden lg:flex items-center gap-4",
                                     children: [(0, r.jsx)(a.default, {
-                                        href: "https://x.com/baseguardev",
+                                        href: "https://x.com/thebaseguard",
                                         target: "_blank",
                                         rel: "noopener noreferrer",
                                         className: "text-sm font-medium text-muted-foreground transition-colors hover:text-primary",
                                         children: "Twitter"
                                     }), (0, r.jsx)(a.default, {
-                                        href: "https://t.me/baseguardev",
+                                        href: "https://t.me/thebaseguard",
                                         target: "_blank",
                                         rel: "noopener noreferrer",
                                         className: "text-sm font-medium text-muted-foreground transition-colors hover:text-primary",
