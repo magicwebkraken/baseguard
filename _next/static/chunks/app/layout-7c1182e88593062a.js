@@ -447,13 +447,13 @@
                     })]
                 }),
                 U = [{
-                    href: "https://basescan.org/address/0xcomingsoon",
+                    href: "https://basescan.org/address/0x84c90d3eec19bec0e5fd92c0a6eff766353984de",
                     label: "BASESCAN"
                 }, {
-                    href: "https://dexscreener.com/base/0xcomingsoon",
+                    href: "https://dexscreener.com/base/0x84c90d3eec19bec0e5fd92c0a6eff766353984de",
                     label: "DEXSCREENER"
                 }, {
-                    href: "https://www.dextools.io/app/en/base/pair-explorer/0xcomingsoon?t=1768638146971",
+                    href: "https://www.dextools.io/app/en/base/pair-explorer/0x84c90d3eec19bec0e5fd92c0a6eff766353984de?t=1768638146971",
                     label: "DEXTOOLS"
                 }, ];
 
